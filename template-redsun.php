@@ -203,7 +203,7 @@
       <div class="col-xs-9">
         <h2><?php echo get_the_title() ;?></h2>
         <p class="text-justify"><?php echo get_the_excerpt(); ;?></p>
-        <a class="btn boton pull-right" href="<?php echo get_home_url(); ?>/servicios" role="button">ir a servicios</a>
+        <a class="btn boton pull-right" href="<?php echo get_home_url(); ?>/servicios" role="button">ir a servicios sdsdsd</a>
       </div>
     </div>
 <hr class="hr-serv">
